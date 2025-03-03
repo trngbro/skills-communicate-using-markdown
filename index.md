@@ -7,8 +7,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```
-Hello!! This is a code block.
+``` javascript
+var myVar = "Hello, world!";
 ```
 
 - [x] item 1
