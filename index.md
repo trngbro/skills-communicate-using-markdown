@@ -5,7 +5,7 @@
 ##### header 5
 ###### header 6
 
-![Image of scubatocat](https://octodex.github.com/images/scubatocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 Hello!! This is a code block.
