@@ -11,6 +11,6 @@
 var myVar = "Hello, world!";
 ```
 
-- [x] item 1
-- [x] item 2
-- [ ] item 3 not complete 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
